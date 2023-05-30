@@ -16,7 +16,7 @@ Designed to be easily expandable with additional functionalities.
 
 Usage:
 
-Clone the repository: git clone [repository_url]
+Clone the repository: git clone [[repository_url](https://github.com/programmersumu/basic-python-project-calculator)]
 
 Navigate to the project directory: cd Simple-Python-Calculator
 
